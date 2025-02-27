@@ -1,0 +1,7 @@
+PCA9685Pin	RaspberryPi Pin
+  VCC	         3.3V   (Pin 1)
+  GND	         GND    (Pin 9 veya 39)
+  SDA	         SDA    (Pin 3 - GPIO2)
+  SCL	         SCL    (Pin 5 - GPIO3)
+
+PCA üzerindeki V+ pini 5V bağlanabilir

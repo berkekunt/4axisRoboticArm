@@ -1,0 +1,36 @@
+RASPBERRY Pİ 4 (4GB)
+
+PCA9685
+
+SG90 SERVO (4 ADET)
+
+Pİ CAMERA V 1.3
+
+5V 10A ADAPTOR
+
+FLAT KABLOLAR
+
+30 CM KAMERA KABLOSU
+
+Raspberry Pi için Fan Soğutucu
+
+Raspberr Pi işletim sistemi için SD kart
+
+Linkler;
+
+https://www.hepsiburada.com/sanec-arduino-robot-kol-kiti-3d-baski-birlesmis-halde-robot-kol-yesil-p-HBCV000053DE8H?magaza=SANEC&
+
+
+https://www.robotistan.com/pca9685-16-kanal-i2c-pwmservo-surucu-karti-klon
+
+https://www.motorobit.com/raspberry-pi-500mm-kamera-ekran-esnek-kablosu
+
+https://www.motorobit.com/tower-pro-sg90-rc-mini-servo-motor
+
+https://www.motorobit.com/raspberry-pi-4-aluminyum-sogutucu-kasa-cift-fanl
+
+https://www.motorobit.com/raspberry-pi-4-4gb-model-b
+
+https://www.motorobit.com/ht-1306-5v-10a-metal-kasa-adaptor-led-driver
+
+https://www.trendyol.com/samsung/evo-plus-64gb-microsd-mb-mc64a-apc-160-mb-sn-beyaz-hafiza-karti-turkiye-garantili-p-824036718?boutiqueId=61&merchantId=107368&utm_source=share
